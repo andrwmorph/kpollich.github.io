@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Hi there. I'm a 22 year old web developer/software engineer located in Lancaster, PA. I'm a recent graduate of Millersville University and I currently work for Clipper Magazine as a backend web applications developer. My primary project is [localflavor.com](https://localflavor.com), and I work primarily in the services and heavy backend realm of things. Currently, I'm working towards migrating our existing .NET stack to a Rails stack, so I'll be documenting some of the things I learn along the way. Thanks for reading!
