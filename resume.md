@@ -58,7 +58,7 @@ I started at Clipper as an intern during my time at Millersville University in M
 
 ---
 
-### The WEBstaurant Store (December, 2014 - Friday, 2015)
+### The WEBstaurant Store (December, 2014 - February, 2015)
 
 Development Intern
 
