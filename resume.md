@@ -73,7 +73,7 @@ I worked briefly as an intern over my winter break in 2014-2015 for [the WEBstau
 
 Student IT Worker
 
-While I was in school, I was employed as a student worker by Millersville's IT department. I performed a number of duties for the universities technology staff.
+While I was in school, I was employed as a student worker by Millersville's IT department. I performed a number of duties for the university's technology staff.
 
 * Repaired, cleaned up, and troubleshot student computers
 * New equipment setups, faculty technology repairs, troubleshooting, etc
