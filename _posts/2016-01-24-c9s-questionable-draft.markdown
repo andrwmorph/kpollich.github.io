@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NA LCS W1D2 - C9's Questionable Draft against TIP"
+title:  "NA LCS W2D1 - C9's Questionable Draft against TIP"
 date:   2016-01-23 20:12:20 -0500
 categories: esports lcs
 ---
