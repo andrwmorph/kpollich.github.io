@@ -6,6 +6,7 @@ categories: esports lcs
 ---
 
 ![TIP after upsetting C9 on Week 2 Day 1 of the NA LCS](/assets/tip_w2d1.jpg "TIP after upsetting C9 on Week 2 Day 1 of the NA LCS")
+*Photo courtesy of Riot Games*
 
 Yesterday was the first day of the second week of regular season play in the North American LCS, and Team Impulse pulled off quite an upset against Cloud 9 while fielding a roster of mostly substitute players. Team Impulse played with Seraph, BeiBei, Gate, Mash, and Ken against C9's roster of Balls, Rush, Jensen, Sneaky, and BunnyFuFu at support for this game. TIP was expecting to play with subs until their import players could get visa and travel issues sorted out, but their top laner from last week, Feng, was not able to play this week for whatever reason, so TIP brought in Seraph. Seraph currently plays in the Challenger Series for Team Arena Online with a few other Korean players like Ninja as well as some well known names like Bischu.
 
