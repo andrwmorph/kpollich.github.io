@@ -49,7 +49,7 @@ I'm a young, aspiring developer living in Lancaster, PA. I graduated from Miller
 
 Backend Web Application Developer/Interim Backend Lead Developer
 
-I started at Clipper as an intern during my time at Millersville University in March, 2015. Initially I worked mostly on some automated email and reporting technologies within our C#/.NET project. I moved into a sort of interim backend lead position in late 2015, and began working on migrating [localflavor.com](http://localflavor.com) from a .NET and ISS stack to a Rails and Linux stack.
+I started at Clipper as an intern during my time at Millersville University in March, 2015. Initially I worked mostly on some automated email and reporting technologies within our C#/.NET project. I moved into a sort of interim backend lead position in late 2015, and began working on migrating [localflavor.com](http://localflavor.com) from a .NET and IIS stack to a Rails and Linux stack.
 
 * Maintain a monolithic C# codebase
 * Implement API layer in Rails conforming to [JSON API](http://jsonapi.org/)
@@ -62,7 +62,7 @@ I started at Clipper as an intern during my time at Millersville University in M
 
 Development Intern
 
-I worked briefly as an intern over my winter break in 2014-2015 for [the WEBstaurant store](http://www.webstaurantstore.com/) in Lititz, PA. A Clark Associates, company, WEBstaurant is an e-commerce company that sells restaurant supplies and equipment. As an intern on a large team of developers, I worked primarily with the site's admin/CMS creating reports for internal use.
+I worked briefly as an intern over my winter break in 2014-2015 for [the WEBstaurant store](http://www.webstaurantstore.com/) in Lititz, PA. A Clark Associates company, WEBstaurant is an e-commerce company that sells restaurant supplies and equipment. As an intern on a large team of developers, I worked primarily with the site's admin/CMS creating reports for internal use.
 
 * Coldfusion, MSSQL, HTML, CSS
 * Create custom reporting/CMS tools for marketing and content employees
@@ -75,7 +75,7 @@ Student IT Worker
 
 While I was in school, I was employed as a student worker by Millersville's IT department. I performed a number of duties for the university's technology staff.
 
-* Repaired, cleaned up, and troubleshot student computers
+* Repair, clean up, and troubleshoot student computers
 * New equipment setups, faculty technology repairs, troubleshooting, etc
 
 ---

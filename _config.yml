@@ -16,5 +16,9 @@ twitter_username: kylepollich
 github_username:  kpollich
 
 # Build settings
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highliter: rouge
