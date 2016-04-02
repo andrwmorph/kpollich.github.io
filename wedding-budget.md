@@ -18,7 +18,7 @@ permalink: /wedding-budget/
   * Alcohol
     * ~ **$250.00**
 * Flowers
-  * Alex wants to do fake flowers - $405.00
+  * Alex wants to do fake flowers - **$405.00**
   * Her mother might offer to provide real flowers
 * Invitations (Digital)
   * **$50.00**
@@ -38,7 +38,7 @@ permalink: /wedding-budget/
 * Programs (On sticks, double as fans) - **$50.00**
 * Rehearsal Dinner
   * **$150.00** deposit paid, final cost TBD after menu selection, etc
-* Honeymoon - **2500.00** paid
+* Honeymoon - **$2500.00** paid
   * Paid for hotel and airfare with credit, paid off this month
 
 Alex and I have contributed **~$4755.00** to date
