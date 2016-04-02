@@ -8,7 +8,7 @@ permalink: /wedding-budget/
 * Venue - **$2600.00**
   * **$900.00** deposit paid
 * Photography - **$1800.00**
-  **$775.00** deposit paid
+  * **$775.00** deposit paid
 * Catering - **$2000.00**
 * Desserts - TBD
   * Pricing by dozen of each dessert chosen
