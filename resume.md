@@ -47,14 +47,14 @@ I'm a young, aspiring developer living in Lancaster, PA. I graduated from Miller
 
 ### Clipper Magazine (March, 2015 - Present)
 
-Backend Web Application Developer/Interim Backend Lead Developer
+Lead Backend Developer
 
 I started at Clipper as an intern during my time at Millersville University in March, 2015. Initially I worked mostly on some automated email and reporting technologies within our C#/.NET project. I moved into a sort of interim backend lead position in late 2015, and began working on migrating [localflavor.com](http://localflavor.com) from a .NET and IIS stack to a Rails and Linux stack.
 
 * Maintain a monolithic C# codebase
 * Implement API layer in Rails conforming to [JSON API](http://jsonapi.org/)
 * Perform code reviews and manage Git repositories
-* Implement performance boosts like Memcached in preparation for high traffic (Black Friday)
+* Develop side projects, API's, etc in Node.js
 
 ---
 
