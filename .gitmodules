@@ -1,0 +1,3 @@
+[submodule "memes"]
+	path = memes
+	url = git@github.com:kpollich/react-memes.git
