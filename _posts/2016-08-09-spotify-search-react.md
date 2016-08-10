@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My First React App - Spotify Search"
+subtitle: "Implementing a basic search page with React and ES6"
 ---
 I've been starting to slowly look into Facebook's [React](https://facebook.github.io/react/) library for a few weeks now. React has been gaining a lot of steam in the web development community as a powerful, expressive rendering library. I've been working as a primarily backend developer for about a year at this point, so I've never worked with any frontend frameworks like [Angular](https://angularjs.org/) or [Ember](http://emberjs.com/). In an effort to expand my skillset, and to embrace full stack Javascript, I decided to start reading/watching some React tutorials.
 

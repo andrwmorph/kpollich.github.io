@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Introductions"
+subtitle: "A brief glance at who I am"
 ---
 
 Hello! My name is Kyle Pollich. I'm a web developer and software engineer from Lancaster, Pennsylvania. I am 22 years old, and I'm a recent graduate of Millersville University's computer science program. I've been working for Clipper Magazine in Mountville, PA since May of 2015, and I recently accepted a position as Lead Backend Developer there.
