@@ -16,7 +16,7 @@ permalink: /resume/
 
 ## About
 
-I'm a young, aspiring developer living in Lancaster, PA. I graduated from Millersville University in 2015, and I've been working as a backend developer for Clipper Magazine since then. I love solving problems and writing clean, beautiful code. I'm also eager to learn and improve myself as a developer and engineer.
+I am a full stack web developer and software engineer from Lancaster, PA. I am passionate about programming as a career and as a hobby. I love solving problems, architecting solutions, and writing clean, expressive code.
 
 ---
 
@@ -25,14 +25,13 @@ I'm a young, aspiring developer living in Lancaster, PA. I graduated from Miller
 * Programming Languages and Technologies
   * Microsoft .NET and C#
   * Ruby on Rails
-  * Javascript, Node.js, jQuery, ES6
+  * Javascript
   * HTML5, CSS3
-  * Java
-  * C++
 * Database/Storage Technologies
   * MSSQL, MySQL
   * Redis
   * Memcached
+  * Elastic
 * Server/Ops Technologies
   * Windows Server, IIS
   * Linux
@@ -49,12 +48,12 @@ I'm a young, aspiring developer living in Lancaster, PA. I graduated from Miller
 
 Lead Backend Developer
 
-I started at Clipper as an intern during my time at Millersville University in March, 2015. Initially I worked mostly on some automated email and reporting technologies within our C#/.NET project. I moved into a sort of interim backend lead position in late 2015, and began working on migrating [localflavor.com](http://localflavor.com) from a .NET and IIS stack to a Rails and Linux stack.
+I started at Clipper as an intern during my time at Millersville University in March, 2015. Initially I worked mostly on some automated email and reporting technologies within our C#/.NET project. In early 2016 I accepted a position as the Lead Backend Developer, and began working on migrating [localflavor.com](http://localflavor.com) to a Rails stack as well as some other API layers in Node. 
 
-* Maintain a monolithic C# codebase
-* Implement API layer in Rails conforming to [JSON API](http://jsonapi.org/)
+* Maintain and iterate on a C#/Webforms codebase
+* Implement and architect API layers in Rails and Node.js
 * Perform code reviews and manage Git repositories
-* Develop side projects, API's, etc in Node.js
+* Participate in and drive architecture and solution engineering discussions
 
 ---
 
@@ -62,7 +61,7 @@ I started at Clipper as an intern during my time at Millersville University in M
 
 Development Intern
 
-I worked briefly as an intern over my winter break in 2014-2015 for [the WEBstaurant store](http://www.webstaurantstore.com/) in Lititz, PA. A Clark Associates company, WEBstaurant is an e-commerce company that sells restaurant supplies and equipment. As an intern on a large team of developers, I worked primarily with the site's admin/CMS creating reports for internal use.
+I worked as an intern over my winter break in 2014-2015 for [the WEBstaurant store](http://www.webstaurantstore.com/) in Lititz, PA. A Clark Associates company, WEBstaurant is an e-commerce company that sells restaurant supplies and equipment. As an intern on a large team of developers, I worked primarily with the site's admin/CMS creating reports for internal use.
 
 * Coldfusion, MSSQL, HTML, CSS
 * Create custom reporting/CMS tools for marketing and content employees
