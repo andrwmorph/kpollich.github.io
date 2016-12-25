@@ -93,6 +93,7 @@ a {
     &:hover {
         color: $text-color;
         text-decoration: none;
+        transition: color, .3s;
     }
 }
 

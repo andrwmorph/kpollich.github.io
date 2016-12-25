@@ -207,6 +207,7 @@
     &:hover {
       text-decoration: none;
       background-color: darken($background-color, 5%);
+      transition: background-color .3s;
     }
 }
 
