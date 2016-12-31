@@ -14,7 +14,7 @@ That was the leap in logic I made as a freshly-graduated developer working for t
 
 It's entirely possible to "impress" senior developers within the constraints of normal work hours, and I wish I had had the foresight to set good work-life boundaries early on in my career by leaving work at the office as much as possible.
 
-## Imposter Syndrome
+## Impostor Syndrome
 
 [Impostor Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) is a state of mind that's plagued just about every one of my peers, and a phenomenon that's extremely common in software engineering careers. It's very common to feel that, when working alongside more senior, experienced developers that you're just "faking it" - that you're not really putting out the same level of work as everyone else. I certainly felt this way early on in my career, and I felt that I could combat this state of mind by working more hours. I felt that I could become a "better" programmer and a "better" employee by working around the clock to shore up my weaknesses and shortcomings. In reality, the shortcoming that I thought I had were either greatly exaggerated in my own head, or totally imagined. An employer that's employing junior developers is already resigned to the fact that those developers are going to need training and mentoring, so shortcomings and weaknesses are totally expected. It's difficult, but a younger developer should try not to feel insecure or ashamed about their narrow skillset or difficulty grasping concepts - it's absolutely to be expected.
 
